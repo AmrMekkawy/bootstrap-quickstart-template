@@ -22,4 +22,6 @@ $ cd bootstrap-quickstart-template/
 $ npm install
 ```
 
+<br>
+
 Now you can open the `index.html` in your code editor and edit it according to your needs.
